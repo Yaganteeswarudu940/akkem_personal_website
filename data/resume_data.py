@@ -550,7 +550,7 @@ BIOSKETCH_QUOTE = '"The goal is to turn data into information, and information i
 
 BIOSKETCH_TEXT = (
     "Akkem Yaganteeswarudu received his B.Tech in Computer Science and Engineering from J.N.T.U - SJCET "
-    "(2012), M.Tech in Computer Science and Engineering from J.N.T.U - SJCET, and Ph.D. in Computer Science "
+    ", M.Tech in Computer Science and Engineering from J.N.T.U - SJCET, and Ph.D. in Computer Science "
     "and Engineering from NIT Silchar (9.25 CGPA). He is currently working as a Senior Data Scientist and "
     "Data Science Team Manager at Deloitte, and as a Postdoctoral Fellow at SR University, Warangal. His "
     "research interests include Generative AI, Agentic AI, Explainable AI (XAI), Machine Learning, Deep "
